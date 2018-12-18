@@ -7,7 +7,7 @@
       backgroundColor: canSuccess ? color : failedColor,
       opacity: show ? 1 : 0
     }"
-  ></div>
+  />
 </template>
 
 <script>

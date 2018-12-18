@@ -23,6 +23,8 @@
   },
   "rules": {
     "no-console": "warn",
-    "no-irregular-whitespace": "off"
+    "no-irregular-whitespace": "off",
+    "vue/singleline-html-element-content-newline": "off",
+    "vue/component-name-in-template-casing": "off"
   }
 }
